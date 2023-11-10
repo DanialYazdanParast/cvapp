@@ -150,12 +150,10 @@ class Application extends StatelessWidget {
 
   Widget _getHistoryColumn() {
     var list = [
-      'برنامه‌نویس اندروید زرین‌پال از سال ۹۷',
-      'هشت ترم ورک‌‌شاپ عملی اندروید دانشگاه تهران',
-      'چنل آموزشی یوتوب از سال ۲۰۱۷',
-      '(Iran cs50x)مدرس دوره اندروید هاروارد ',
-      'اموزش برنامه‌نویسی اندروید از سال ۹۳',
-      'ExpertFlutter مدرس و عشق دمنده '
+      'برنامه‌نویس اندروید ',
+      
+      
+     
     ];
     return Column(
       crossAxisAlignment: CrossAxisAlignment.end,
